@@ -21,5 +21,6 @@ source ~/ws_moveit2/install/setup.bash
 ros2 launch moveit2_tutorials demo.launch.py rviz_config:=panda_moveit_config_demo_empty.rviz
 
 ```
+
 Please refer to the [MoveIt quick start](https://moveit.picknik.ai/humble/doc/tutorials/quickstart_in_rviz/quickstart_in_rviz_tutorial.html) after you visualize the Rviz interface
 
