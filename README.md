@@ -22,5 +22,5 @@ ros2 launch moveit2_tutorials demo.launch.py rviz_config:=panda_moveit_config_de
 
 ```
 
-Please refer to the [MoveIt quick start](https://moveit.picknik.ai/humble/doc/tutorials/quickstart_in_rviz/quickstart_in_rviz_tutorial.html) after you visualize the Rviz interface
+Please refer to the [MoveIt quick start](https://moveit.picknik.ai/humble/doc/tutorials/quickstart_in_rviz/quickstart_in_rviz_tutorial.html) after you visualize the Rviz interface, to get a fast introduction on how to visualize and manipulate a robot arm.
 
